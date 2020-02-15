@@ -19,6 +19,9 @@ import java.util.stream.Collectors;
 
 import static br.com.fiap.cervejaria.dto.Tipo.*;
 
+
+// localhost:8081/cervejas/ implementacoes da rota
+
 @RestController
 @RequestMapping("cervejas")
 public class CervejaController {
