@@ -18,4 +18,4 @@ spring:
 
 jwt:
   secret: F14ps3cr3t
-  expiration: 1
+  expiration: 10
